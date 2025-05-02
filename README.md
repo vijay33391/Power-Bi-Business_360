@@ -55,3 +55,6 @@
      - This feature is crucial for timely decision-making and performance tracking.
 
 By leveraging these features, the Business Intelligence 360 project provides a robust platform for analyzing business performance, enabling users to make data-driven decisions effectively.
+
+To view the project on Power BI, click [here](https://app.powerbi.com/groups/1fac8594-e933-4570-a1ca-a05c3b0c2e2d/reports/1764c7f1-43e6-4cc1-a1b4-1bfbfff62471/ReportSectioneab00661195c3b27dcdc?experience=power-bi).
+
