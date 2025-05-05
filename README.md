@@ -1,7 +1,7 @@
 ## Power BI Dashboard
 
 🚀 **Click here to view the report:**  
-👉 [Power BI Report Link](https://app.powerbi.com/groups/1fac8594-e933-4570-a1ca-a05c3b0c2e2d/reports/1764c7f1-43e6-4cc1-a1b4-1bfbfff62471/ReportSectioneab00661195c3b27dcdc?experience=power-bi)
+👉 [Power BI Report Link](https://app.powerbi.com/groups/770f27ab-54af-44a3-9d6b-b9c0c535f2a2/reports/75bec180-8058-4f1b-8ea1-56dcf29fc750/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)
 
 
 **Features of the Business Intelligence 360 Project**
